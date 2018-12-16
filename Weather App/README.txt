@@ -1,3 +1,4 @@
+# Weather App
 The weather app displays current location, weather, and temperature. There is an option to change to Celsius or Farenheight.
 
 Weather API from https://fcc-weather-api.glitch.me/
